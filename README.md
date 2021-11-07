@@ -1,14 +1,14 @@
-### 👋 Apresentação
+#### 👋 Apresentação
 
-👋 Olá, sou @eduhds
-👀 Gosto de desenvolvimento `mobile`
-🌱 Sempre aprendendo um pouco mais de React/React Native, Flutter, Svelte...
+- 👋 Olá, sou @eduhds
+- 👀 Gosto de desenvolvimento `mobile`
+- 🌱 Sempre aprendendo um pouco mais de React/React Native, Flutter, Svelte...
 
-### ✨ Projetos
+#### ✨ Projetos
 
 - [json-to-types.web.app](https://json-to-types.web.app)
 
-### 📫 Contato
+#### 📫 Contato
 
 - [eduardohds.com.br](https://eduardohds.com.br)
 
