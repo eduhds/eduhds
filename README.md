@@ -6,6 +6,7 @@
 
 #### ✨ Projetos
 
+- [jdata-explorer.web.app](https://jdata-explorer.web.app)
 - [json-to-types.web.app](https://json-to-types.web.app)
 
 #### 📫 Contato
