@@ -11,7 +11,7 @@
 
 #### 📫 Contato
 
-- [eduardohds.com.br](https://eduardohds.com.br)
+- [eduardodev.web.app](https://eduardodev.web.app)
 
 <!---
 eduhds/eduhds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
