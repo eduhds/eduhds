@@ -1,9 +1,13 @@
-# Eduardo Silva
+# 👋 Bem-vindo ao meu perfil
 **Desenvolvedor Mobile & Frontend**
-
+<!--
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Frontend+Mobile;React+%26+React+Native;JavaScript+%26+TypeScript;Sempre+aprendendo..." alt="Typing SVG" />
+</div>
+-->
 ---
 
-## **Sobre Mim**
+## 👨‍💻 **Sobre Mim**
 Desenvolvedor especializado em aplicações mobile e frontend, com experiência em soluções multiplataforma. Focado em entregas técnicas, eficiência e adoção de boas práticas de desenvolvimento.
 
 - **Foco:** Desenvolvimento Mobile (iOS & Android) e Frontend
@@ -12,7 +16,7 @@ Desenvolvedor especializado em aplicações mobile e frontend, com experiência 
 
 ---
 
-## **Tecnologias & Ferramentas**
+## 🛠️ **Tecnologias & Ferramentas**
 
 ### **Linguagens de Programação**
 <div align="center">
@@ -56,6 +60,7 @@ Desenvolvedor especializado em aplicações mobile e frontend, com experiência 
 ---
 ### **Ambiente de Desenvolvimento**
 <div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
@@ -63,7 +68,7 @@ Desenvolvedor especializado em aplicações mobile e frontend, com experiência 
 </div>
 
 ---
-## **Estatísticas GitHub**
+## 📊 **Estatísticas GitHub**
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduhds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhds&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
